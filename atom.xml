@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-02-12T11:08:16.423Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Bigice</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/02/12/hello-world/"/>
+    <id>http://yoursite.com/2018/02/12/hello-world/</id>
+    <published>2018-02-12T06:59:34.349Z</published>
+    <updated>2018-02-12T11:08:16.423Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第一篇博文，写于 2018/2/12。</p><p>今年我上大二，学习编程也有一年半了。其实早在一年前我就有过搭建博客的想法，但是当时才疏学浅（当然现在也是），肚子里没多少货，估计也写不出什么干货，于是博客的计划就暂时搁置了。经过一年半的学习，课内课外都有所收获，于是今天就搭建了基于 <a href="https://github.com" target="_blank" rel="noopener">Github</a> 的博客，用于输出一些学到的知识，自己的想法。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是我的第一篇博文，写于 2018/2/12。&lt;/p&gt;
+&lt;p&gt;今年我上大二，学习编程也有一年半了。其实早在一年前我就有过搭建博客的想法，但是当时才疏学浅（当然现在也是），肚子里没多少货，估计也写不出什么干货，于是博客的计划就暂时搁置了。经过一年半的学习，课内课外都有所收获，
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
