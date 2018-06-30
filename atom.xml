@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://big-ice.github.io/"/>
-  <updated>2018-04-09T14:14:20.418Z</updated>
+  <updated>2018-06-30T07:24:05.821Z</updated>
   <id>http://big-ice.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://big-ice.github.io/2018/06/30/%E9%94%81%E5%B1%8F%E7%95%8C%E9%9D%A2%E6%98%BE%E7%A4%BA%20Apple%20Music%20%E6%AD%8C%E8%AF%8D/"/>
+    <id>http://big-ice.github.io/2018/06/30/锁屏界面显示 Apple Music 歌词/</id>
+    <published>2018-06-30T07:23:15.564Z</published>
+    <updated>2018-06-30T07:24:05.821Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="在锁屏界面显示-Apple-Music-的歌词"><a href="#在锁屏界面显示-Apple-Music-的歌词" class="headerlink" title="在锁屏界面显示 Apple Music 的歌词"></a>在锁屏界面显示 Apple Music 的歌词</h1><p>Apple Music 一直以来的一个缺点就是歌词。不只是缺少歌词，还有歌词的显示。没有滚动歌词，也不能在锁屏界面显示。当然其他播放器的锁屏显示功能在 iOS 11 通知中心改版时也挂掉了。但是这个需求是一直存在的，之前有人用 Workflow 来获取歌词，而在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%88%9B%E9%80%A0%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E5%85%B7/id1312014438?mt=8" target="_blank" rel="noopener">JSBox</a> 出来之后，我们有了更优秀的解决方案。如果过你之前不了解 JSBox，可以参考这篇文章 <a href="https://sspai.com/post/42361" target="_blank" rel="noopener">JSBox: 一个创造工具的工具</a></p><p>首先给出下载地址：<a href="https://xteko.com/redir?name=%E6%BB%9A%E5%8A%A8%E6%AD%8C%E8%AF%8D&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fbig-ice%2FJSBox-Scripts%2Fmaster%2FLyric.box" target="_blank" rel="noopener">滚动歌词</a></p><h2 id="脚本功能"><a href="#脚本功能" class="headerlink" title="脚本功能"></a>脚本功能</h2><ul><li>支持主应用滚动歌词显示</li><li>支持通知 3D Touch 按压显示滚动歌词</li><li>支持主题更换（歌词颜色和背景颜色）</li><li>支持多语言（原语言，翻译，原语言加翻译）</li></ul><p>截图如下：<br><img src="uploads/锁屏界面显示 Apple Music 歌词/PNG%20%E5%9B%BE%E5%83%8F-740A8F1C3E3A-3.png)![](PNG%20%E5%9B%BE%E5%83%8F-740A8F1C3E3A-2.png" class="full-image"></p><h2 id="个人推荐的最佳用法"><a href="#个人推荐的最佳用法" class="headerlink" title="个人推荐的最佳用法"></a>个人推荐的最佳用法</h2><p>配合 JSBox 的一个重磅功能：固定任务。可以将脚本以通知的形式固定在通知中心（不是 Widget），即使是消除了通知还会重新出现，虽然现在有个 bug（运行脚本通知还是会消失）。<br><img src="uploads/锁屏界面显示 Apple Music 歌词/PNG%20%E5%9B%BE%E5%83%8F-740A8F1C3E3A-1.png" class="full-image"></p><h2 id="使用流程"><a href="#使用流程" class="headerlink" title="使用流程"></a>使用流程</h2><p>打开 Apple Music 播放歌曲，下拉通知中心重按固定任务即可。可以说是最简单的操作了。如果是锁屏状态直接按压脚本那就更简单了。<br><img src="uploads/锁屏界面显示 Apple Music 歌词/2018-06-30%2015_18_27.gif" class="full-image">用此脚本搭配 Apple Music 是我能做到的最易用的歌词显示了，如果大家还有更好的解决方案，欢迎留言。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;在锁屏界面显示-Apple-Music-的歌词&quot;&gt;&lt;a href=&quot;#在锁屏界面显示-Apple-Music-的歌词&quot; class=&quot;headerlink&quot; title=&quot;在锁屏界面显示 Apple Music 的歌词&quot;&gt;&lt;/a&gt;在锁屏界面显示 Apple Mus
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>aText 与系统文本替换的同步</title>
